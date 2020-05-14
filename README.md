@@ -3,7 +3,7 @@
 Transform your leiningen project with replace expressions.
 
 ``` clojure
-:plugin [[exoscale/lein-replace "0.1.0"]]
+:plugin [[exoscale/lein-replace "0.1.1"]]
 ```
 
 ## Motivation
