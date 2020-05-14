@@ -1,4 +1,4 @@
-(defproject exoscale/lein-replace "0.1.0"
+(defproject exoscale/lein-replace "0.1.1-SNAPSHOT"
   :description "Transform your leiningen project with replace expressions"
   :url "https://github.com/exoscale/lein-replace"
   :deploy-repositories [["releases" :clojars] ["snapshots" :clojars]]
